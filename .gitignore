@@ -1,0 +1,4 @@
+.idea
+dataset/20*
+*.pdf
+__pycache__
